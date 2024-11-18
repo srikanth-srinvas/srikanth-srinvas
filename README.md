@@ -1,4 +1,4 @@
-<div align="center">
+<div align="leftaligned ">
   <h2>
     <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Srikanth 
   </h2>
