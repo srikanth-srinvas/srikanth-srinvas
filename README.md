@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srikanth Srinivas
+# 👋 Hi, I'm Srikanth
 
 🎓 MSc Bioinformatics Student at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
 🔬 Passionate about genomic data analysis, AMR research, and harnessing bioinformatics to solve real-world challenges.  
