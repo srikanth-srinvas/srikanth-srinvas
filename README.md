@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Srikanth
 
-🎓 MSc Bioinformatics Student at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
-🔬 Passionate about genomic data analysis, AMR research, and harnessing bioinformatics to solve real-world challenges.  
-💻 Skilled in Python, R, and Bioinformatics tools, with hands-on experience in microbial genomics.  
+🎓 MSc Bioinformatics Student at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).
+🔬 I am Passionate about NGS data analysis and harnessing bioinformatics to solve real-world challenges.
+💻 Skilled in Python, R, and Bioinformatics tools, with hands-on experience in microbial genomics.
 
 ---
 
