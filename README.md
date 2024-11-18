@@ -1,6 +1,6 @@
 # 👋 Hi, 
 
-I'm Srikanth, I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
+My name is Srikanth Srinivas, I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
 🔬 I am Passionate about genomic data analysis and harnessing bioinformatics to solve real-world challenges.  
 💻 Things I use daily: Python, R, Unix, Nextflow, Conda
 
