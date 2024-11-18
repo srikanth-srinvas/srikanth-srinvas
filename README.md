@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Srikanth
+# 👋 Hi, 
 
-🎓 MSc Bioinformatics Student at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
+🎓 I'm Srikanth, I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
 🔬 I am Passionate about genomic data analysis and harnessing bioinformatics to solve real-world challenges.  
 💻 Skilled in Python, R, and Bioinformatics tools, with hands-on experience in microbial genomics.  
 
