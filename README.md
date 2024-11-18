@@ -1,17 +1,13 @@
 # 👋 Hi, 
 
 My name is Srikanth Srinivas, I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
-🔬 I am Passionate about genomic data analysis and harnessing bioinformatics to solve real-world challenges.  
-💻 Things I use daily: Python, R, Unix, Conda, Nextflow
 
----
-
-## 🌱 About Me  
-
-- 📖 I developed an interest in bioinformatics during my undergraduate studies in Biotechnology.  
-- 🌟 Inspired by Ryan Bethencourt's quote, *"Our world is built on biology, and once we begin to understand it, it then becomes a technology."*  
-- 🧬 My research focuses on genomic surveillance and data-driven approaches to study **WHO-priority pathogens**.  
-
+- 🔬 I am Passionate about harnessing bioinformatics to solve real-world health challenges.  
+- 💻 Things I use daily: Python, R, Unix, Conda, Nextflow  
+- 🧬 Currently my research focuses on genomic surveillance and data-driven approaches to study **WHO-priority pathogens**.  
+- 🧗‍♂️ Outside the lab, you’ll find me hiking or geeking out over the tech gadgets and innovations!  
+- Connect on LinkedIn [![Linkedin: Srikanth Srinivas](https://img.shields.io/badge/-SrikanthSrinivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srikanth-srinivas27)](https://www.linkedin.com/in/srikanth-srinivas27) 
+- More on my [personal website](https://srikanth-srinvas.github.io/)
 ---
 
 ## 📈 GitHub Stats  
