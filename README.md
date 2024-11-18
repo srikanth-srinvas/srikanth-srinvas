@@ -4,7 +4,7 @@
   </h2>
 </div>  
 <div align="center">
-I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).   
+I'm currently studying Bioinformatics at the University of Bristol   
 </div>
 
 - 💻 Things I use daily: Python, R, Unix, Conda, Nextflow  
