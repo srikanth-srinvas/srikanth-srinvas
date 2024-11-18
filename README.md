@@ -1,6 +1,11 @@
-# 👋 Hi 
-
-My name is Srikanth Srinivas, I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).  
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Srikanth 
+  </h2>
+</div>  
+<div align="center">
+I'm currently studying Bioinformatics at the [University of Bristol](https://www.bristol.ac.uk/studypostgraduate/taught/msc-bioinformatics/).   
+</div>
 
 - 💻 Things I use daily: Python, R, Unix, Conda, Nextflow  
 - 🧬 Currently my research focuses on genomic surveillance and data-driven approaches to study Antimicrobial Resistance (AMR).  
