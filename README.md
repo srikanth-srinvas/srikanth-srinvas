@@ -13,4 +13,4 @@ My name is Srikanth Srinivas, I'm currently studying Bioinformatics at the [Univ
 ## 📈 GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-srinvas&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=srikanth-srinvas&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=srikanth-srinvas&layout=compact&theme=radical)  
