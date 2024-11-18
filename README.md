@@ -14,25 +14,6 @@
 
 ---
 
-## 🔨 Skills  
-
-- **Programming Languages**: Python, R, Shell Scripting  
-- **Bioinformatics Tools**: Biopython, BLAST, FASTQC, SPAdes, MEGA  
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Seaborn  
-- **Version Control**: Git, GitHub  
-
----
-
-## 🌟 Projects  
-
-### 📊 [Interactive MSA Explorer](#)  
-A tool for exploring multiple sequence alignments with an intuitive GUI.  
-
-### 🧬 [AMR Genomics Analysis](#)  
-Comprehensive study of high-risk clones and multidrug resistance dynamics in *Klebsiella pneumoniae*.  
-
----
-
 ## 📫 Let's Connect  
 
 - 🌐 [Personal Website](https://srikanth-srinvas.github.io)  
@@ -44,5 +25,4 @@ Comprehensive study of high-risk clones and multidrug resistance dynamics in *Kl
 
 ## 📈 GitHub Stats  
 
-![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikanth-srinvas&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-srinvas&layout=compact&theme=radical)  
