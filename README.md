@@ -27,4 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-srinvas&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=srikanth-srinvas&theme=radical)  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=srikanth-srinvas&theme=radical)  
+
+![GitHub Streak Custom](https://streak-stats.demolab.com?user=srikanth-srinvas&theme=tokyonight&hide_border=true)
+
