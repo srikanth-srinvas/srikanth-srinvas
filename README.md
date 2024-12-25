@@ -8,7 +8,7 @@ I'm currently studying Bioinformatics at the University of Bristol
 
 
 - 💻 Things I use daily: Python, R, Unix, Conda
-- 🌱 I’m currently learning: Nextflow and AWS for Bioinformatics
+- 🌱 I’m currently learning: Nextflow and AWS
 - 🧬 Currently my research focuses on Microbial genomics.
 - 🧗‍♂️🏸 Outside the lab, you’ll probably find me playing sports or geeking out over tech gadgets!
 - Connect on LinkedIn [![Linkedin: Srikanth Srinivas](https://img.shields.io/badge/-SrikanthSrinivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srikanthsrinivas27)](https://www.linkedin.com/in/srikanthsrinivas27)  
