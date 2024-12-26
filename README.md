@@ -16,3 +16,4 @@ I'm currently studying Bioinformatics at the University of Bristol
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-srinvas&layout=compact&theme=radical)  
+![](https://komarev.com/ghpvc/?username=srikanth-srinvas)
