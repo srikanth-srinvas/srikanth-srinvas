@@ -31,6 +31,10 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-%23C22333.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyLint](https://img.shields.io/badge/PyLint-%2300B4CC.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Bioinformatics-Specific Tools
 ![Bioconda](https://img.shields.io/badge/Bioconda-%23008080.svg?style=for-the-badge&logo=conda-forge&logoColor=white)
