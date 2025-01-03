@@ -15,4 +15,7 @@ I'm currently studying Bioinformatics at the University of Bristol
 - Find out more on my [personal website](https://srikanth-srinvas.github.io/)  
 
 
+# 💻 Tech Stack:
+https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-srinvas&layout=compact&theme=radical)  
