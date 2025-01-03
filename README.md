@@ -17,10 +17,6 @@ I'm currently studying Bioinformatics at the University of Bristol
 
 # 💻 Tech Stack:
 
-## Tech Stack
-
-Here are some of the technologies I use:
-
 ### General Tools
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
