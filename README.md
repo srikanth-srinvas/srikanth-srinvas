@@ -23,6 +23,7 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-%233ac4a7.svg?style=for-the-badge&logo=nextflow&logoColor=white)
+![nf-core](https://img.shields.io/badge/nf--core-%233ac4a7.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAGXRFWHRTb2Z0d2FyZQBNb2ppdG8gUGF0aERlc2lnbqvjPAAAABhQTFRF////YmJiZGVlgICAqqqqpKSkra2t////7XMH+wAAABF0Uk5TAABhwBC4IMfI2z4BLcq/gAAAAVhJREFUOMuFkNENwjAQRREhP/c3tbP/P1ws5igmsHzzjF3YLRdHX3pEIgGACGRmAApOqAqEGyVi5ICBtmrXlcBcMHiYScDImzDPBO5BVr1bpxspPY7AAstOBMPSVqEccAY+FE3EQPujbcMMXaoc9CIH3UuYA+Z1VvWNw69G+68ABdoHyYw0V9tAAAAAElFTkSuQmCC&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-%23342B2B.svg?style=for-the-badge&logo=anaconda&logoColor=white)
