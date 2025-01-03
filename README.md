@@ -17,7 +17,7 @@ I'm currently studying Bioinformatics at the University of Bristol
 
 # 💻 Tech Stack:
 
-### General Tools
+### Developer Tools
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -26,7 +26,6 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-%23342B2B.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Bioconda](https://img.shields.io/badge/Bioconda-%23008080.svg?style=for-the-badge&logo=conda-forge&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-orange?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -34,9 +33,8 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Bioinformatics-Specific Tools
-
+![Bioconda](https://img.shields.io/badge/Bioconda-%23008080.svg?style=for-the-badge&logo=conda-forge&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-orange?style=for-the-badge)
-![tidyverse](https://img.shields.io/badge/Tidyverse-%231075BD.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![BLAST](https://img.shields.io/badge/BLAST-blue?style=for-the-badge)
 ![SAMtools](https://img.shields.io/badge/SAMtools-green?style=for-the-badge)
 ![VCFtools](https://img.shields.io/badge/VCFtools-blueviolet?style=for-the-badge)
@@ -47,5 +45,13 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E34F26.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![tidyverse](https://img.shields.io/badge/Tidyverse-%231075BD.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-%23E34F26.svg?style=for-the-badge&logo=r&logoColor=white)
+![lme4](https://img.shields.io/badge/lme4-%231075BD.svg?style=for-the-badge&logo=r&logoColor=white)
+![VGAM](https://img.shields.io/badge/VGAM-%231075BD.svg?style=for-the-badge&logo=r&logoColor=white)
+![effects](https://img.shields.io/badge/effects-%231075BD.svg?style=for-the-badge&logo=r&logoColor=white)
+![performance](https://img.shields.io/badge/performance-%231075BD.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-srinvas&layout=compact&theme=radical)  
