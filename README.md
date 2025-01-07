@@ -41,7 +41,7 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![VCFtools](https://img.shields.io/badge/VCFtools-blueviolet?style=for-the-badge)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-darkgreen?style=for-the-badge)
 
-### Data Analysis
+### Data Analysis Libraries
 
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
