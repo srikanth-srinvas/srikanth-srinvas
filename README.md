@@ -33,7 +33,7 @@ I'm currently studying Bioinformatics at the University of Bristol
 ![PyLint](https://img.shields.io/badge/PyLint-%2300B4CC.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-### Bioinformatics-Specific Tools
+### Bioinformatics
 ![Bioconda](https://img.shields.io/badge/Bioconda-%23008080.svg?style=for-the-badge&logo=conda-forge&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-orange?style=for-the-badge)
 ![BLAST](https://img.shields.io/badge/BLAST-blue?style=for-the-badge)
